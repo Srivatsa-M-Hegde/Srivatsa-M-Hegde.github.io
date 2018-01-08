@@ -1,3 +1,4 @@
 name: Srivatsa Manjunath Hegde
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+theme: minima
